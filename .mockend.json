@@ -1,6 +1,16 @@
 {
-  "Property": {
-    "name": "string",
-    "value": "string"
-  }
+  "Property": [
+      {
+        "name": "loanservice.client.contact.city",
+        "value": "San Francisco"
+      },
+      {
+        "name": "loanservice.client.contact.state",
+        "value": "California"
+      },
+      {
+        "name": "loanservice.client.contact.address",
+        "value": "1 Hallidie Plaza, Suite 715"
+      }
+    ]
 }
