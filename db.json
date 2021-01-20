@@ -1,20 +1,22 @@
-[
-  {
-    "cb_name": "my_test",
-    "name":"test",
-    "property": [
-       {
-        "name": "test.cus.con.ci",
-        "value": "SF"
-        },
+{
+   "my_cus":[
       {
-        "name": "test.cus.con.st",
-        "value": "Cnia"
-      },
-      {
-        "name": "test.cus.con.ads",
-        "value": "Check 456"
+         "cb_name":"my_test",
+         "name":"test",
+         "property":[
+            {
+               "name":"test.cus.con.ci",
+               "value":"SF"
+            },
+            {
+               "name":"test.cus.con.st",
+               "value":"Cnia"
+            },
+            {
+               "name":"test.cus.con.ads",
+               "value":"Check 456"
+            }
+         ]
       }
-    ]
-  }
-]
+   ]
+}
