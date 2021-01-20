@@ -1,8 +1,14 @@
 {
    "my_cus":[
       {
-         "cb_name":"my_test",
-         "name":"test",
+         "c_name_b":"my_test_full",
+         "c_name": {
+            "id": 1,
+            "name": "my_test_full",
+            "link": {
+               "acronym": "my_test"
+            }
+         },
          "property":[
             {
                "name":"test.cus.con.ci",
